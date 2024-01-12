@@ -2,9 +2,10 @@ This is document of the project
 
 WORKING POLICY
 
-1. Phía FrontEnd và BackEnd phải hoạt động độc lập với nhau. Tức là dù BackEnd lỗi nhưng FrontEnd vẫn phải hoạt động và ngược lại.
-2. Bất cứ ai đều phải đọc được code dù là BackEnd hoặc FrontEnd
-3. Khi dùng code mà không phải của mình thì phải ghi document rõ ràng ví dụ như nếu từ mạng thì ghi rõ nguồn, từ AI phải ghi rõ cách hỏi
-4. Không dùng framework để tiện hơn. Nếu có phải báo trước cho cả nhóm
-5. Cấm chậm deadline, nếu như chậm thì sẽ mất đầu việc.
-6. Tôn trọng code của người khác, khi thấy có xung đột phải tạo Issue và trình bày rõ vấn đề gồm: cách tái tạo, kết quả mong đợi và bằng chứng là ảnh hoặc video.
+1. Code chạy phải chạy được bằng bất cứ giá nào
+2. Phía FrontEnd và BackEnd phải hoạt động độc lập với nhau. Tức là dù BackEnd lỗi nhưng FrontEnd vẫn phải hoạt động và ngược lại.
+3. Bất cứ ai đều phải đọc được code dù là BackEnd hoặc FrontEnd
+4. Khi dùng code mà không phải của mình thì phải ghi document rõ ràng ví dụ như nếu từ mạng thì ghi rõ nguồn, từ AI phải ghi rõ cách hỏi
+5. Không dùng framework để tiện hơn. Nếu có phải báo trước cho cả nhóm
+6. Cấm chậm deadline, nếu như chậm thì sẽ mất đầu việc.
+7. Tôn trọng code của người khác, khi thấy có xung đột phải tạo Issue và trình bày rõ vấn đề gồm: cách tái tạo, kết quả mong đợi và bằng chứng là ảnh hoặc video.
