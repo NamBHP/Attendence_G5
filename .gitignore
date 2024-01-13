@@ -1,0 +1,9 @@
+# ignore vs file
+DoNet/Attendance/.vs
+DoNet/Attendance/obj
+DoNet/Attendance/bin
+
+#ingore java file
+Java/.mvm
+Java/mvnw.cmd
+
