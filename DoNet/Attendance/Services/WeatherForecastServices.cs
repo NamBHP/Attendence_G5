@@ -9,6 +9,7 @@ namespace Attendance.Services
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
+        
         public async Task<IEnumerable<WeatherForecast>> GetList()
         {
             var item = Enumerable.Range(1, 5).Select(index => new WeatherForecast
@@ -17,8 +18,9 @@ namespace Attendance.Services
                 TemperatureC = Random.Shared.Next(-20, 55),
                 Summary = Summaries[Random.Shared.Next(Summaries.Length)]
             });
-
             return item;
         }
+
+
     }
 }

@@ -1,3 +1,5 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace Attendance.Entities
 {
     public class WeatherForecast
